@@ -5,7 +5,7 @@ Datasets:
 - NYC Evictions Data (https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4/about_data)
 
 ## TODOs:
-- [ ] Upload notebook loading House Price Data and NYC Evictions Data
+- [x] Upload notebook loading House Price Data and NYC Evictions Data
     - [ ] Load House Price Data
     - [ ] Summary Statistics, Viz
     - [ ] Load NYC Evictions Data
